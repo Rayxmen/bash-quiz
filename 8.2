@@ -1,0 +1,30 @@
+#!/bin/bash
+
+echo "Bienvenue dans le Quiz Bash !"
+
+score=0
+
+echo ""
+echo "Question 1 : Quelle commande affiche le dossier actuel ?"
+read answer
+
+if [ "$answer" = "pwd" ]; then
+    echo "Bravo ! Bonne réponse 🎉"
+    score=$((score + 1))
+else
+    echo "Faux 😢 La bonne réponse était : pwd"
+fi
+
+echo ""
+echo "Question 2 : Quelle commande liste les fichiers ?"
+read answer
+
+if [ "$answer" = "ls" ]; then
+    echo "Bonne réponse 🎉"
+    score=$((score + 1))
+else
+    echo "Faux 😢 La bonne réponse était : ls"
+fi
+
+echo ""
+echo "🎯 Ton score final est : $score / 2"

@@ -1,0 +1,20 @@
+Quelle commande affiche le dossier actuel ?|pwd
+Quelle commande liste les fichiers ?|ls
+Quelle commande change de dossier ?|cd
+Quelle commande affiche le contenu d’un fichier ?|cat
+Quelle commande crée un fichier vide ?|touch
+Quelle commande crée un dossier ?|mkdir
+Quelle commande supprime un fichier ?|rm
+Quelle commande supprime un dossier vide ?|rmdir
+Quelle commande copie un fichier ?|cp
+Quelle commande déplace ou renomme un fichier ?|mv
+Quelle commande affiche le manuel d’une commande ?|man
+Quelle commande affiche l’historique des commandes ?|history
+Quelle commande change les droits d’un fichier ?|chmod
+Quelle commande affiche les processus ?|ps
+Quelle commande affiche les processus en temps réel ?|top
+Quelle commande affiche le nom de l’utilisateur ?|whoami
+Quelle commande affiche la date actuelle ?|date
+Quelle commande affiche le contenu d’un fichier page par page ?|less
+Quelle commande permet de rechercher du texte ?|grep
+Quelle commande affiche l’arborescence des dossiers ?|tree
