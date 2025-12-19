@@ -3,7 +3,12 @@
 Un petit jeu de quiz en Bash pour apprendre les commandes Linux de base tout en s’amusant 
 Ce projet a été réalisé pour apprendre Bash pas à pas, depuis zéro, et montrer un projet simple mais propre sur GitHub.
 
+## Installation
 
+1️-Cloner le dépôt
+ git clone https://github.com/aniselouwahab/ytld.sh.git
+ cd ytld.sh
+ 
 ________________________________________
 
 ## Objectif du projet
@@ -105,4 +110,5 @@ ________________________________________
 ## Remerciements
 
 Merci à Julien Bourri, professeur de système, réseaux et cybersécurité pour l’apprentissage.
+
 
