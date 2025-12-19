@@ -6,10 +6,13 @@ Ce projet a été réalisé pour apprendre Bash pas à pas, depuis zéro, et mon
 ## Installation
 
 1️-Cloner le dépôt
- git clone https://github.com/aniselouwahab/ytld.sh.git
- cd ytld.sh
+
+ git clone https://github.com/Rayxmen/bash-quiz/blob/main/quiz.sh 
+ 
+ cd quiz.sh
  
 ________________________________________
+
 
 ## Objectif du projet
 
@@ -110,5 +113,6 @@ ________________________________________
 ## Remerciements
 
 Merci à Julien Bourri, professeur de système, réseaux et cybersécurité pour l’apprentissage.
+
 
 
